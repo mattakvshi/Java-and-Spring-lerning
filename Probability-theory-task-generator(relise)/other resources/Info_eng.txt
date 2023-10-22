@@ -1,0 +1,10 @@
+In this version of the app, we fixed the oddities with the choice of path!
+Now you don't need to bother and do something, the program will install itself on the right path.
+We also added the "Help" section to the program, it says how to use the application.
+In addition, we solved the problem with the paths to the options, you can still change the path in the settings,
+but if you don't, then nothing terrible will happen, the program will detect your desktop,
+wherever it is, and make a folder "Options" there, and upload everything there.
+
+We wish you a pleasant use!
+
+Sincerely, EVC inc.
